@@ -1,0 +1,1 @@
+John wants to create a new branch called bugFix from the master branch
